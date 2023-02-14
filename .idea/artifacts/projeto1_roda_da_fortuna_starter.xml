@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="projeto1-roda-da-fortuna-starter">
+    <output-path>$PROJECT_DIR$/out/artifacts/projeto1_roda_da_fortuna_starter</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="projeto1_roda_da_fortuna_starter.jar">
+        <element id="module-output" name="projeto1-roda-da-fortuna-starter" />
+      </element>
+    </root>
+  </artifact>
+</component>

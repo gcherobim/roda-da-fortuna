@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="projeto1-roda-da-fortuna-starter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/projeto1-roda-da-fortuna-starter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

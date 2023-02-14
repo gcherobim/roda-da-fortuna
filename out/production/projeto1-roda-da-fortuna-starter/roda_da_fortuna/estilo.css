@@ -1,0 +1,7 @@
+.button {
+    -fx-background-color: #a7eea7;
+}
+
+.button:disabled {
+    -fx-background-color: #c67474;
+}
